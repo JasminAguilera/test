@@ -1,2 +1,4 @@
-Bender
-simur
+Mercurio
+Venus
+Tierra
+Marte
